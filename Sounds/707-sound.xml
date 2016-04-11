@@ -415,7 +415,7 @@
   <engine>
    <name>Engine 1 over 100 percent</name>
    <!-- Antigo jet.wav -->
-   <path>Aircreft/707-400/Sounds/c5wind3.wav</path>
+   <path>Aircreft/707-900/Sounds/c5wind3.wav</path>
    <mode>looped</mode>
    <condition>
     <and>
@@ -431,7 +431,7 @@
 
   <engine>
    <name>Engine 2 over 100 percent</name>
-   <path>Aircreft/707-400/Sounds/c5wind3.wav</path>
+   <path>Aircreft/707-900/Sounds/c5wind3.wav</path>
    <mode>looped</mode>
    <condition>
     <and>
@@ -447,7 +447,7 @@
 
   <engine>
    <name>Engine 3 over 100 percent</name>
-   <path>Aircreft/707-400/Sounds/c5wind3.wav</path>
+   <path>Aircreft/707-900/Sounds/c5wind3.wav</path>
    <mode>looped</mode>
    <condition>
     <and>
@@ -463,7 +463,7 @@
 
   <engine>
    <name>Engine 4 over 100 percent</name>
-   <path>Aircreft/707-400/Sounds/c5wind3.wav</path>
+   <path>Aircreft/707-900/Sounds/c5wind3.wav</path>
    <mode>looped</mode>
    <condition>
     <and>
@@ -751,7 +751,7 @@
   <rumble>
    <name>rumble</name>
    <mode>looped</mode>
-   <path>Aircraft/707-400/Sounds/Roll.wav</path>
+   <path>Aircraft/707-900/Sounds/Roll.wav</path>
    <condition>
     <or>
      <property>/gear/gear[0]/wow</property>
@@ -814,7 +814,7 @@
   <!-- toque das rodas no chão -->
   <squeal>
    <name>squeal</name>
-   <path>Aircraft/707-400/Sounds/touchdown.wav</path>
+   <path>Aircraft/707-900/Sounds/touchdown.wav</path>
    <condition>
     <or>
      <property>/gear/gear[0]/wow</property>
@@ -881,7 +881,7 @@
 
   <stall>
    <name>stall</name>
-   <path>Aircraft/707-400/Sounds/bastall.wav</path>
+   <path>Aircraft/707-900/Sounds/bastall.wav</path>
    <property>/sim/alarms/stall-warning</property>
    <volume>
     <property>/velocities/airspeed-kt</property>
@@ -892,7 +892,7 @@
   <stall>
    <name>stall</name>
    <mode>looped</mode>
-   <path>Aircraft/707-400/Sounds/bastall.wav</path>
+   <path>Aircraft/707-900/Sounds/bastall.wav</path>
    <condition>
     <less-than>
      <property>velocities/airspeed-kt</property>
@@ -921,7 +921,7 @@
   <stall>
    <name>stall</name>
    <mode>looped</mode>
-   <path>Aircraft/707-400/Sounds/bastall.wav</path>
+   <path>Aircraft/707-900/Sounds/bastall.wav</path>
    <condition>
     <less-than>
      <property>velocities/airspeed-kt</property>
@@ -950,7 +950,7 @@
   <switch>
    <name>click on</name>
    <mode>once</mode>
-   <path>Aircraft/707-400/Sounds/click.wav</path>
+   <path>Aircraft/707-900/Sounds/click.wav</path>
    <condition>
     <property>/sim/sound/switch</property>
    </condition>
@@ -962,7 +962,7 @@
   <switch>
    <name>click off</name>
    <mode>once</mode>
-   <path>Aircraft/707-400/Sounds/click.wav</path>
+   <path>Aircraft/707-900/Sounds/click.wav</path>
    <condition>
     <not>
      <property>/sim/sound/switch</property>
@@ -976,7 +976,7 @@
   <switch>
    <name>click on</name>
    <mode>once</mode>
-   <path>Aircraft/707-400/Sounds/FastenSeatbelt.wav</path>
+   <path>Aircraft/707-900/Sounds/FastenSeatbelt.wav</path>
    <condition>
     <property>controls/switches/seatbelt-sign</property>
    </condition>
@@ -988,7 +988,7 @@
   <rain>
    <name>rain</name>
    <mode>looped</mode>
-   <path>Aircraft/707-400/Sounds/rain.wav</path>
+   <path>Aircraft/707-900/Sounds/rain.wav</path>
    <condition>
     <and>
      <equals>
