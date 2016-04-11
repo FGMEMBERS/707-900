@@ -118,9 +118,9 @@
 <!-- O menu de ajuda dessa aeronave -->
 		<help>
 			<title>Boeing 707-900</title>
-			<line>Choose your favorit texture using the key above</line>
-			<line>To start the plane you have to select "Engine Starter" and then when</line>
-			<line>n2 shows 25 you have to select "Engine Start", If you want to cutoff</line>
+			<line>Choose your favorite texture using the key above</line>
+			<line>To start the plane you have to select "Engine Starter" and when</line>
+			<line>N2 shows 25 you have to select "Engine Start", If you want to turn off</line>
 			<line>the engine just select "Engine Start"</line>
 			<key>
 				<name>l</name>
