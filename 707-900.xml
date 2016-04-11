@@ -313,7 +313,7 @@
 
  </propulsion>
  
- <system file="pushback"/>
+ <!--<system file="Dialogs/pushback"/> disabled crashes FG-->
 
 
  <flight_control name="FCS: 707-900">
@@ -916,7 +916,7 @@
  
 <external_reactions>
 
- <force name="pushback" frame="BODY">
+ <!--<force name="pushback" frame="BODY">
   <location unit="IN">
    <x>  -139 </x>
    <y>    0.0 </y>
@@ -927,7 +927,7 @@
    <y>0</y>
    <z>0</z>
   </direction>
- </force>
+ </force>-->
 
 </external_reactions>
 
