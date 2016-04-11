@@ -36,13 +36,13 @@
 			<splash-texture>Aircraft/707-900/splash.png</splash-texture>
 		</startup>
 
-		<!-- Definição do Painel da Aeronave -->
+		<!-- Definicao do Painel da Aeronave -->
 		<panel>
 			<path>Aircraft/707-900/Panels/737-ifr-panel.xml</path>
 			<visibility>true</visibility>
 		</panel>
 		
-		<!-- modificações para funcionamento dos liveries - http://wiki.flightgear.org/index.php/Livery_over_MP -->
+		<!-- modificacoes para funcionamento dos liveries - http://wiki.flightgear.org/index.php/Livery_over_MP -->
 		<model>
 			<path>Aircraft/707-900/Models/707-900.xml</path>
 		    <livery>
@@ -373,7 +373,7 @@
 		</keyboard>
 	</input>
 
-	<!-- Códigos NASAL -->
+	<!-- Codigos NASAL -->
 	<nasal>
 	    <livery>
 	        <file>Aircraft/707-900/Nasal/livery.nas</file>
@@ -405,7 +405,7 @@
 			</engine>
 		</engines>
 
-<!-- Instrumentação -->
+<!-- Instrumentacao -->
 
 	<instrumentation>
 		<mk-viii>
