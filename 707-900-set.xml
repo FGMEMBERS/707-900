@@ -38,7 +38,7 @@
 
 		<!-- Definição do Painel da Aeronave -->
 		<panel>
-			<path>Aircraft/737-300/Panels/737-ifr-panel.xml</path>
+			<path>Aircraft/707-900/Panels/737-ifr-panel.xml</path>
 			<visibility>true</visibility>
 		</panel>
 		
