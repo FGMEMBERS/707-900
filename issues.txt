@@ -1,0 +1,8 @@
+3D:
+- engines too big, cockpit bad
+- livery broken
+- DOES IT USE KC-137 MODEL?!!
+- 737-300 2D panel
+
+Systems
+- pushback disabled
